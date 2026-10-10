@@ -1,4 +1,4 @@
-# Customer Behavior & Business Insights
+# Customer Shopping Behavior Analysis and Dashboard
 
 An end-to-end data analytics project using **Python, SQL, MySQL, and Power BI** to explore customer shopping patterns, purchasing behavior, subscription trends, discount usage, and customer satisfaction.
 
@@ -76,13 +76,12 @@ customer-trends-data-analysis-SQL-Python-PowerBI/
 │
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── customer_behavior_sql_queries.sql
-├── Customer_Behavior and satisfaction.pbix
-├── customer_behavior_dashboard.pbix
+├── customer_Shopping_behavior_Analysis_dashboard.pbix
 ├── customer_shopping_behavior.csv
 └── README.md
 ```
 
-*The filenames above should match the actual files in the repository. Remove any entry that is not included.*
+
 
 ## How to Explore the Project
 
